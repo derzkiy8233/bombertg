@@ -6,7 +6,7 @@ from threading import Thread
  
 bot = telebot.TeleBot('2126646800:AAFzTIP95DsTKyfNE96Zh5T5DwshsO7EQKQ')
  
-aid = ид админа
+aid = @AE_ToXic2290
  
 #начало диалога
 @bot.message_handler(commands=['start'])
